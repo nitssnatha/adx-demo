@@ -511,7 +511,6 @@
         <members>Actions</members>
         <members>Activities</members>
         <members>Address</members>
-        <members>Analytics</members>
         <members>Apex</members>
         <members>AppExperience</members>
         <members>Archive</members>
@@ -521,7 +520,6 @@
         <members>Case</members>
         <members>Chatter</members>
         <members>ChatterEmailsMD</members>
-        <members>Communities</members>
         <members>Company</members>
         <members>ConnectedApp</members>
         <members>Content</members>
@@ -552,7 +550,6 @@
         <members>Industries</members>
         <members>InvocableAction</members>
         <members>IsvHammer</members>
-        <members>Language</members>
         <members>LeadConfig</members>
         <members>LightningExperience</members>
         <members>MapsAndLocation</members>
@@ -570,7 +567,6 @@
         <members>PartyDataModel</members>
         <members>PathAssistant</members>
         <members>Picklist</members>
-        <members>PlatformEncryption</members>
         <members>Portals</members>
         <members>PredictionBuilder</members>
         <members>Privacy</members>
