@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-  <version>45.0</version>
+  <type>
+    <members>Geo_Location__c</members>
+    <name>CustomObject</name>
+  </type>
+  <version>47.0</version>
 </Package>
