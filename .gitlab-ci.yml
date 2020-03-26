@@ -17,7 +17,7 @@ validate_against_QA:
     - schedules
   only:
     - /^feature/.*/
-deploy_to_UAT:
+deploy_to_QA:
   stage: deploy
   script:
     - 'adx sort:check'
