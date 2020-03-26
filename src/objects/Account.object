@@ -323,6 +323,16 @@
         <fullName>Website</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
+    <fields>
+        <fullName>Longitude__c</fullName>
+        <displayLocationInDecimal>false</displayLocationInDecimal>
+        <externalId>false</externalId>
+        <label>Longitude</label>
+        <required>false</required>
+        <scale>2</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Location</type>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <columns>ACCOUNT.NAME</columns>
