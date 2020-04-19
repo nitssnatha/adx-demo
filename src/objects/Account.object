@@ -316,7 +316,7 @@
     </fields>
     <fields>
         <fullName>Type</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>true</trackFeedHistory>
         <type>Picklist</type>
     </fields>
     <fields>
