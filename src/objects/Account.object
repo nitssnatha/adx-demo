@@ -328,7 +328,7 @@
         <displayLocationInDecimal>false</displayLocationInDecimal>
         <externalId>false</externalId>
         <label>Longitude</label>
-        <required>false</required>
+        <required>true</required>
         <scale>2</scale>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Location</type>
