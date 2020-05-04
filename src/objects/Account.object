@@ -327,7 +327,7 @@
         <fullName>Longitude__c</fullName>
         <displayLocationInDecimal>false</displayLocationInDecimal>
         <externalId>false</externalId>
-        <label>Longitude</label>
+        <label>Longitudes</label>
         <required>false</required>
         <scale>2</scale>
         <trackFeedHistory>false</trackFeedHistory>
