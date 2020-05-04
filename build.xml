@@ -1,4 +1,9 @@
 <project name="Code Backup Without Folders" basedir="." xmlns:sf="antlib:com.salesforce">
+<taskdef resource="com/salesforce/antlib.xml">
+	<classpath>
+		<pathelement location="lib/ant-salesforce.jar"/>
+	</classpath>
+</taskdef>
 <macrodef name="gitDiff">
 	<sequential>
 		<exec executable="git" outputproperty="git.diff">
